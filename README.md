@@ -1,12 +1,13 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammates' contact info, if appropriate)
+Daniel He 
+Zena Chang
 
 ## Abstract Proposal
 
 FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+
+The main idea is to combine two bodies of work from two different artists to create a true style transfer. Using cycle GANs should be the best method to approach this, based on the visual art generation project. In order to expand on the previous project, we will be including our own bodies of work with various well known artits. The presentation will consist of samples fom our own body of work as well as those of the chosen artist and followed by the art generated between both.
 
 ## Project Report
 
